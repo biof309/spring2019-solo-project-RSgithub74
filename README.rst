@@ -1,9 +1,9 @@
 =========
-myproject
+My New Project
 =========
 
 
-Add a short description here!
+This will be a really cool project
 
 
 Description
