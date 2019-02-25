@@ -1,9 +1,9 @@
 =========
-My New Project
+My New Solo Project #1
 =========
 
 
-This will be a really cool project
+This may be a really cool project
 
 
 Description
