@@ -3,7 +3,7 @@ My New Solo Project #1
 =========
 
 
-This may be a really cool project
+This may be a really cool project, or not
 
 
 Description
